@@ -1,5 +1,5 @@
-# go-http-java-sdk
-go-http-java-sdk
+# go-cqhttp-java-sdk
+go-cqhttp-java-sdk
 
 使用前请调用com.github.sunligh91.sdk.gocqhttp.gateway.GoCqHttpHost.setHostUrl设置一下hostUrl
 
